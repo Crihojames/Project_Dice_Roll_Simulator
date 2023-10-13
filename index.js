@@ -50,3 +50,5 @@ buttonEl.addEventListener("click", ()=> {
         rollDice()
     }, 1000);
 });
+
+//bycriho
